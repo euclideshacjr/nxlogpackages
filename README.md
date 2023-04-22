@@ -1,0 +1,2 @@
+# nxlogpackages
+binarios nxlog community
